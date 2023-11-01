@@ -22,7 +22,7 @@
         "illuminate/filesystem": "^7.0|^8.0|^9.0|^10.0",
         "illuminate/support": "^7.0|^8.0|^9.0|^10.0",
         "symfony/console": "^4.2|^5.0",
-        "mpdf/mpdf": "^8.1",
+        "mpdf/mpdf": "^8.0",
         "spatie/commonmark-highlighter": "^2.1"
     },
     "require-dev": {
